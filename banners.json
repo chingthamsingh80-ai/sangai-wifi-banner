@@ -1,0 +1,23 @@
+{
+  "interval": 5000,
+  "banners": [
+    {
+      "image": "banner1.png",
+      "alt": "Sangai WiFi Scanner",
+      "link": "",
+      "active": true,
+      "order": 1,
+      "start_date": "",
+      "end_date": ""
+    },
+    {
+      "image": "banner2.png",
+      "alt": "Sangai banner",
+      "link": "",
+      "active": true,
+      "order": 2,
+      "start_date": "",
+      "end_date": ""
+    }
+  ]
+}
